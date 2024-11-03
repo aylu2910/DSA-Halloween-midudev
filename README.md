@@ -1,4 +1,4 @@
-# EXERCISE 1
+# EXERCISE 1 [DIFFICULTY: EASY 🟢]
 
 During Halloween night 🎃, a witch 🧙‍♀️ is preparing a magical brew. She has a list of potions, each with an associated power, and she wants to combine two of them to achieve a specific total power.
 
