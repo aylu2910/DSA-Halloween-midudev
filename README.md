@@ -25,7 +25,7 @@ const goal = 5
 createMagicPotion(potions, goal) // [1, 2]
 // it could also be [0, 3] but there is a combination earlier
 
-# EXERCISE 2
+# EXERCISE 2 [DIFFICULTY: EASY 🟢]
 
 # EXERCISE 3
 
